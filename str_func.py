@@ -1,5 +1,5 @@
 def str_func(value):
-    """Makes string's every symbol upper"""
+    """Makes words' every symbol upper"""
     return value.upper()
 
 
