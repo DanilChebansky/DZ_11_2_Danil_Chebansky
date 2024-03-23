@@ -1,3 +1,8 @@
 def str_func(value):
-    """Делает все буквы заглавными"""
+    """Makes string's every symbol upper"""
     return value.upper()
+
+
+def title_func(value):
+    """Makes words' first symbol upper"""
+    return value.title()
